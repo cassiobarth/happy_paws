@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (opcional - se quiser evitar subir CSV grandes)
+# *.csv
+
+# Environment
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
